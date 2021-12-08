@@ -1,0 +1,11 @@
+.jumbotronEncabezado{
+    background-color: #334257;
+    margin-bottom: 0;
+    border-radius: 0%;
+    text-align: center;
+}
+
+.img-perfil{
+    width: 18em;
+    height: 20em;
+}
